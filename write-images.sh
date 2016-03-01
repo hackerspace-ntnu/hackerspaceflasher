@@ -10,7 +10,7 @@ echo ""
 if [[ $NUM_DEVICES -lt 1 ]]; then
 echo "Usage: $0"
 echo ""
-echo "Example: $0 hello_world.zip"
+echo "Example: $0"
 echo "  ..."
 	exit 1
 fi
