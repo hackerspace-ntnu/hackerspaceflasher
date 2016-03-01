@@ -1,0 +1,3 @@
+release=jessie
+hostname=piLOLID
+rootpw=hunter2
